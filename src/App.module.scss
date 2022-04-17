@@ -1,0 +1,13 @@
+@import "variables.scss";
+
+.App {
+  height: 100vh;
+  background-color: $main-bg;
+
+  h1 {
+    color: $main-text;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100vh;
+  }
+}
